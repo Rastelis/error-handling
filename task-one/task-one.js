@@ -1,0 +1,1 @@
+document.querySelector("body").innerHTML=' <div class="wraper"><h4>Write a JavaScript function that takes a number as a parameter and throws a custom \'Error\' if the number is not an integer.</h4></div>'
